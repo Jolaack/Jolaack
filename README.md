@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jolaack
 - 👀 I’m interested in Python and networking!
-- 🌱 I’m currently learning network automation 
+- 🌱 I’m currently learning network automation and web development!
 - 💞️ I’m looking to collaborate on Python projects!
 - 📫 How to reach me: johan.f.landin@gmail.com
 
